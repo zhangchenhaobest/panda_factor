@@ -1,3 +1,29 @@
+# panda_factor
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A quantitative trading framework with workflows and agents.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+量化交易框架、工作流与智能体。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # PandaFactor - PandaAI量化因子库
 ![预览](https://zynf-test.oss-cn-shanghai.aliyuncs.com/github/ezgif-84dc5a49963246.gif
 )
